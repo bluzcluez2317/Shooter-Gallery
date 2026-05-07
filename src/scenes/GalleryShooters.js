@@ -43,7 +43,7 @@ class GalleryShooters extends Phaser.Scene {
         this.load.image("whitePuff02", "whitePuff02.png");
         this.load.image("whitePuff03", "whitePuff03.png");
 
-        this.load.audio('bgMusic','Magic In The Garden.wav');
+        this.load.audio('bgMusic','Magic in the Garden.wav');
 
         this.load.bitmapFont("rocketSquare", "KennyRocketSquare_0.png", "KennyRocketSquare.fnt");
 
